@@ -11,8 +11,12 @@
             "id": "cad647f11504b806",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -164,9 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2a9464cb3b99af",
+  "active": "cad647f11504b806",
   "lastOpenFiles": [
+    "base.md",
     "README.md",
+    "tools/obsidian git 版本控制.md",
+    "tools",
     "未命名.canvas",
     "rust/异步和并发/在所有生产者消失之后停止的消费者线程.md",
     "rust/异步和并发/spawn 中 move.md",
@@ -193,8 +204,6 @@
     "rust/crates",
     "rust/cargo-generate使用模版.md",
     "base/commit 前缀与 cliff.md",
-    "base/tools/typos 拼写检查.md",
-    "base/tools/deny 依赖检查.md",
     "base/tools",
     "base",
     "rust"
