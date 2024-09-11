@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "b3afe878bdc7a931",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f8e9cd2fd37b4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad647f11504b806",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17ec1dfc119f9917",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b55a071143f236c",
+        "type": "tabs",
+        "dimension": 73.57992073976222,
+        "children": [
+          {
+            "id": "d071be00ed70769d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "267f3ca07cea51a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#rust",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc597e69f2397237",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ef1ed287d14f212",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3a7f9d75aa6ed6ab",
+        "type": "tabs",
+        "dimension": 26.420079260237785,
+        "children": [
+          {
+            "id": "5f1a81fc50a584dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d6337e495688611f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13afd2f18d445d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e694ad13c161a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2694c01f8141dc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "520b3615815e0b60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a2a9464cb3b99af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2a2a9464cb3b99af",
+  "lastOpenFiles": [
+    "README.md",
+    "未命名.canvas",
+    "rust/异步和并发/在所有生产者消失之后停止的消费者线程.md",
+    "rust/异步和并发/spawn 中 move.md",
+    "rust/crates/anyhow 不能自动转换的错误.md",
+    "rust/异步和并发/线程等待.md",
+    "rust/crates/rand 生成指定类型范围内的随机值.md",
+    "rust/项目中的\"试一试\"代码.md",
+    "rust/异步和并发/多生产者单一消费者的channel.md",
+    "rust/异步和并发/spawn 函数.md",
+    "rust/crates/toml 转换可迭代对象.md",
+    "rust/异步和并发",
+    "rust/crates/rand 对元素进行重排.md",
+    "rust/crates/rand 选择随机元素.md",
+    "rust/crates/Blake3 hash处理.md",
+    "rust/crates/ed5519_dalek非对称加密.md",
+    "rust/crates/tower-http 中的文件服务.md",
+    "rust/crates/tokio 常用 features.md",
+    "rust/crates/jwt 签署.md",
+    "rust/crates/Axum 常用 features.md",
+    "rust/crates/enum_dispatch 枚举来分派方法调用.md",
+    "rust/crates/tracing 日志诊断格式化输出.md",
+    "rust/cargo 换源.md",
+    "rust/rust项目准备.md",
+    "rust/crates",
+    "rust/cargo-generate使用模版.md",
+    "base/commit 前缀与 cliff.md",
+    "base/tools/typos 拼写检查.md",
+    "base/tools/deny 依赖检查.md",
+    "base/tools",
+    "base",
+    "rust"
+  ]
+}
