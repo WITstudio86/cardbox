@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "rust/异步和并发/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d6337e495688611f",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "rust/异步和并发/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "rust/异步和并发/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "rust/异步和并发/未命名.md"
               }
             }
           },
@@ -174,8 +175,12 @@
   },
   "active": "cad647f11504b806",
   "lastOpenFiles": [
-    "base.md",
+    "base/tools/typos 拼写检查.md",
+    "rust/异步和并发/未命名.md",
+    "base/tools/deny 依赖检查.md",
+    "base/tools/pre-commit提交检查.md",
     "README.md",
+    "base.md",
     "tools/obsidian git 版本控制.md",
     "tools",
     "未命名.canvas",
@@ -199,11 +204,7 @@
     "rust/crates/Axum 常用 features.md",
     "rust/crates/enum_dispatch 枚举来分派方法调用.md",
     "rust/crates/tracing 日志诊断格式化输出.md",
-    "rust/cargo 换源.md",
-    "rust/rust项目准备.md",
     "rust/crates",
-    "rust/cargo-generate使用模版.md",
-    "base/commit 前缀与 cliff.md",
     "base/tools",
     "base",
     "rust"
