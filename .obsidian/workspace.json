@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/异步和并发/未命名.md",
+                "file": "rust/常用 trait.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d6337e495688611f",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust/异步和并发/未命名.md",
+                "file": "rust/常用 trait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust/异步和并发/未命名.md",
+                "file": "rust/常用 trait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust/异步和并发/未命名.md"
+                "file": "rust/常用 trait.md"
               }
             }
           },
@@ -176,7 +175,7 @@
   "active": "cad647f11504b806",
   "lastOpenFiles": [
     "base/tools/typos 拼写检查.md",
-    "rust/异步和并发/未命名.md",
+    "rust/常用 trait.md",
     "base/tools/deny 依赖检查.md",
     "base/tools/pre-commit提交检查.md",
     "README.md",
